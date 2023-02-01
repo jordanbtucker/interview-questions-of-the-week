@@ -1,9 +1,7 @@
 # Interview Questions of the Week
 
-A repository of solutions to [Cassidy Williams'](https://cassidoo.co/) Interview
-Questions of the Week from her [newsletter](https://cassidoo.co/newsletter/),
-written in [TypeScript](https://www.typescriptlang.org/) and tested with
-[Deno](https://deno.land/).
+A repository of solutions to [Cassidy Williams'] Interview Questions of the Week
+from her [newsletter], written in [TypeScript] and tested with [Deno].
 
 ## Project Structure
 
@@ -17,7 +15,7 @@ be found in `280_test.ts`.
 
 ## Running the Tests
 
-First install Git and Deno.
+First install [Git] and [Deno].
 
 Then clone this repository:
 
@@ -31,3 +29,9 @@ To perform the tests, run:
 ```
 deno test
 ```
+
+[Cassidy Williams']: https://cassidoo.co/
+[Deno]: https://deno.land/
+[Git]: https://git-scm.com/
+[newsletter]: https://cassidoo.co/newsletter/
+[TypeScript]: https://www.typescriptlang.org/
