@@ -1,4 +1,4 @@
-import { assertEquals } from 'https://deno.land/std@0.175.0/testing/asserts.ts'
+import { assertEquals } from './deps/assert.ts'
 import { missingBits } from './284.ts'
 
 Deno.test('284.1', () => {

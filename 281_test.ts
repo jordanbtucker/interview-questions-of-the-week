@@ -1,4 +1,4 @@
-import { assertEquals } from 'https://deno.land/std@0.175.0/testing/asserts.ts'
+import { assertEquals } from './deps/assert.ts'
 import { maxSubarray } from './281.ts'
 
 Deno.test('281.1', () => {

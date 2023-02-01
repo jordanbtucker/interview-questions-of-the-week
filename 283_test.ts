@@ -1,7 +1,4 @@
-import {
-  assertEquals,
-  assertThrows,
-} from 'https://deno.land/std@0.175.0/testing/asserts.ts'
+import { assertEquals, assertThrows } from './deps/assert.ts'
 import { Game, SpinResult } from './283.ts'
 
 Deno.test('283.1', () => {

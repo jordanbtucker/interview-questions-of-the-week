@@ -1,4 +1,4 @@
-import { assertEquals } from 'https://deno.land/std@0.175.0/testing/asserts.ts'
+import { assertEquals } from './deps/assert.ts'
 import { capitalAfterVowel, capitalAfterVowelWithoutRegex } from './279.ts'
 
 Deno.test('279.1', () => {
