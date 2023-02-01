@@ -5,9 +5,10 @@ from her [newsletter], written in [TypeScript] and tested with [Deno].
 
 ## Project Structure
 
-Each weekly issue of the newsletter has a number near the bottom, and each
-interview question solution is in a file named after that number. For example,
-the solution to the interview question in issue #280 can be found in `280.ts`.
+Each weekly issue of the newsletter has an issue number near the bottom, and
+each interview question solution is in a file named after that number. For
+example, the solution to the interview question in issue #280 can be found in
+`280.ts`.
 
 Tests for each solution can be found in its corresponding `*_test.ts` file. For
 example, the tests for the solution to the interview question in issue #280 can
