@@ -1,0 +1,14 @@
+{
+  "fmt": {
+    "options": {
+      "proseWrap": "always",
+      "semiColons": false,
+      "singleQuote": true
+    }
+  },
+  "lint": {
+    "rules": {
+      "include": ["explicit-function-return-type"]
+    }
+  }
+}
